@@ -1,0 +1,9 @@
+//Execution of Input and Print functons with variables.
+//Len() Function usage.
+
+name = input("What is your name?")
+length = len(name)
+print(len)
+
+O/P:-  What is your name? Pramod
+       6.
