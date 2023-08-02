@@ -1,0 +1,11 @@
+a = input("Enter the number a : ")
+b = input("Enter the number b : ")
+
+temp = a
+a = b
+b = temp
+
+O/P:-  Enter the number a : 5
+       Enter the number b : 3
+       a : 3
+       b : 5.
